@@ -1,0 +1,36 @@
+body{
+    font-family: 'Fira Sans', sans-serif;
+}
+
+.button_colour{
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    background-image: linear-gradient(45deg, red ,tomato);
+    color: wheat;
+    font-weight: bold;
+}
+
+.half_part{
+    height: 600px;
+    width: 40%;
+    float: left;
+}
+
+.half_part img{
+    height: 100%;
+}
+
+.text_color{
+    color: rgb(14, 194, 226);
+}
+
+.top_banner{
+    background-image: url(img/latest-work-bg.png);
+    background-repeat: no-repeat;
+    margin-left: 20px;
+}
+
+.center_h1{
+    text-align: center;
+}
